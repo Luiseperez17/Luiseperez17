@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 👋 ¡Hola! Soy Luis Enrique Pérez
+## 👋 ¡Hola! Soy Luis Enrique Pérez
 
 ### 🚀 Innovation Manager | AI Consultant | Software Developer | Tech Enthusiast
 
