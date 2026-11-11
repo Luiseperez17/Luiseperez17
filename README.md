@@ -94,13 +94,6 @@ Mi objetivo es crear tecnología útil, escalable y centrada en las personas.
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luiseperez17&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luiseperez17&layout=compact&theme=tokyonight&hide_border=true)
-
----
 
 ## 🌎 Conectemos
 
